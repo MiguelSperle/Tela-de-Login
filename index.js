@@ -29,7 +29,3 @@ submit.addEventListener('click', () => {
 
 
 
-
-
-
-
